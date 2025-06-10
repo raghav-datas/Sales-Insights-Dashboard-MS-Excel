@@ -13,7 +13,7 @@
 - Which channel is contributing to maximum sales..?		
 - Which month got highest sales and ordes?		
 - Highest selling category
-- Dashboard Interaction < a href = "https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20Sales%20Insights%20Dashboard.png">View Dashboard<a/>
+- Dashboard Interaction <a href = "https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20Sales%20Insights%20Dashboard.png">View Dashboard<a/>
 
 ## Process:
 - Checked the dataset for any missing values or inconsistencies and cleaned them up to ensure accuracy.
