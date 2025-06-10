@@ -25,6 +25,16 @@
 ## Dashboard:
 ![Final sales Insights Dashboard](https://github.com/user-attachments/assets/451f08ca-14f1-4462-bc85-9220f843cc8c)
 
+## Project Insights:							
+- Women are more likely to buy compared to men (65%)							
+- Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states that purchase more							
+- Adult age groups (30-40 yrs) are maximum for purchase contribution							
+- Amazon, Flipkart and Myntra are the maximum contributing  channel partners (80%)							
+- More than 90% of the products delivered							
+							
+## Final conclusion to improve the sales:							
+Target Women customers of the age group(30-40 yrs) living in Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu, these states
+by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.		
 
 
 
