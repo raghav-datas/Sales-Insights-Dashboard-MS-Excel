@@ -13,7 +13,8 @@
 - Which channel is contributing to maximum sales..?		
 - Which month got highest sales and ordes?		
 - Highest selling category
-- Dashboard Interaction <a href = "https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20Sales%20Insights%20Dashboard.png">View Dashboard<a/>
+- Dashboard Interaction <a href = "https://github.com/raghav-datas/Sales-Insights-Dashboard-MS-Excel/blob/main/Final%20sales%20Insights%20Dashboard.png">View Dashboard<a/>
+
 
 ## Process:
 - Checked the dataset for any missing values or inconsistencies and cleaned them up to ensure accuracy.
@@ -22,7 +23,7 @@
 - Combined all pivot tables into a single, interactive dashboard with slicers for dynamic filtering.
 
 ## Dashboard:
-![Final Sales Insights Dashboard](https://github.com/user-attachments/assets/98cb5ee0-0f17-4f46-b7f7-ad89429af197)
+![Final sales Insights Dashboard](https://github.com/user-attachments/assets/451f08ca-14f1-4462-bc85-9220f843cc8c)
 
 
 
