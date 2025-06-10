@@ -1,2 +1,3 @@
 # Sales-Insights-Dashboard-MS-Excel
-An Excel-based sales insights dashboard for Vrindra, highlighting key trends by gender, age, state, and channel to improve targeting and boost sales through data-driven decisions.
+## To analyse Vrindra’s sales data using Excel and uncover key customer trends across gender, age, region, and channels, enabling data-driven strategies to boost sales performance.
+
